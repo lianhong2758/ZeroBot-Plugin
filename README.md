@@ -1349,6 +1349,14 @@ print("run[CQ:image,file="+j["img"]+"]")
 
 </details>
 <details>
+  <summary>抽vtb老婆</summary>
+
+  `import _ "github.com/FloatTech/ZeroBot-Plugin/plugin/vtb_wife`
+
+  - [x] 抽vtb
+
+</details>
+<details>
   <summary>vtb点歌</summary>
 
   `import _ "github.com/FloatTech/ZeroBot-Plugin/plugin/vtbmusic"`
